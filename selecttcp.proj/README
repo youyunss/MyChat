@@ -1,0 +1,7 @@
+主要代码：
+	src/server/selectserver.cpp
+	src/client/selectclient.cpp
+运行：
+	bin目录下
+	./server +ip +port
+	./client +ip +port

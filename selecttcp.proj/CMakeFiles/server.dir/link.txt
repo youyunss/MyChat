@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -lpthread  -rdynamic CMakeFiles/server.dir/src/server/selectserver.cpp.o  -o bin/server 

@@ -1,0 +1,4 @@
+/root/vincent/tcpproj/selecttcp.proj/CMakeFiles/rebuild_cache.dir
+/root/vincent/tcpproj/selecttcp.proj/CMakeFiles/edit_cache.dir
+/root/vincent/tcpproj/selecttcp.proj/CMakeFiles/server.dir
+/root/vincent/tcpproj/selecttcp.proj/CMakeFiles/client.dir

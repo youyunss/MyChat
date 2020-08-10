@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -lpthread  -rdynamic CMakeFiles/client.dir/src/client/selectclient.cpp.o  -o bin/client 
